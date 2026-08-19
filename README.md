@@ -202,15 +202,7 @@ visualizations and insights.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./profile/stats.svg" alt="GitHub Statistics">
-
-<br><br>
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages">
 
 <br><br>
 

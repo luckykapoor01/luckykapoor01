@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Lucky Kapoor
 
-### 💻 Web Developer • 🐍 Python & Data Science Enthusiast
+### 💻 Web Developer • 🐍 Python Developer • 📊 Data Science Enthusiast
 
 <p>
   <a href="https://github.com/luckykapoor01">
@@ -31,18 +31,22 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Lucky Kapoor**, a developer interested in building useful and practical software.
+Hi! I'm **Lucky Kapoor**, a developer passionate about technology,
+programming and building useful real-world projects.
 
-I'm currently focused on strengthening my foundations in **Web Development, Python, and Data Science** while working on real-world projects and continuously improving my problem-solving skills.
+I'm currently focused on developing strong foundations in **Web Development,
+Python and Data Science** while continuously improving my programming and
+problem-solving skills.
 
 * 💻 Building websites using **HTML & CSS**
-* 🐍 Learning and developing with **Python**
+* 🐍 Developing applications and solving problems with **Python**
 * 📊 Exploring **Data Science and Data Analysis**
 * 🔢 Working with **NumPy and Pandas**
-* 📈 Creating visualizations with **Matplotlib**
+* 📈 Creating data visualizations using **Matplotlib**
 * 📓 Using **Jupyter Notebook** for data exploration
-* 🔧 Using **Git & GitHub** for version control and collaboration
-* 🌱 Continuously learning and building new projects
+* 🔧 Managing projects with **Git & GitHub**
+* 💡 Building projects to turn ideas into practical solutions
+* 🌱 Continuously learning and improving
 
 > *"Learn. Build. Improve. Repeat."*
 
@@ -62,7 +66,7 @@ I'm currently focused on strengthening my foundations in **Web Development, Pyth
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,jupyter" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -70,23 +74,44 @@ I'm currently focused on strengthening my foundations in **Web Development, Pyth
 
 ---
 
+## 💻 What I Work With
+
+| Category                   | Technologies     |
+| -------------------------- | ---------------- |
+| 🌐 Web Development         | HTML5, CSS3      |
+| 🐍 Programming             | Python           |
+| 📊 Data Analysis           | Pandas, NumPy    |
+| 📈 Data Visualization      | Matplotlib       |
+| 📓 Development Environment | Jupyter Notebook |
+| 🔧 Version Control         | Git, GitHub      |
+| 💻 Code Editor             | VS Code          |
+
+---
+
 ## 📚 Skills
 
-### 💻 Web Development
+### 🌐 HTML & CSS
 
 * HTML5
+* Semantic HTML
+* Forms
+* Tables
 * CSS3
+* Flexbox
+* CSS Grid
 * Responsive Web Design
-* Website Development
-* Basic UI Implementation
+* Website Layout & Styling
 
 ### 🐍 Python
 
-* Python Programming
+* Python Fundamentals
+* Variables & Data Types
+* Conditional Statements
+* Loops
 * Functions
-* Loops & Conditions
-* Data Structures
+* Lists, Tuples, Sets & Dictionaries
 * File Handling
+* Exception Handling
 * Object-Oriented Programming
 * Problem Solving
 
@@ -96,6 +121,7 @@ I'm currently focused on strengthening my foundations in **Web Development, Pyth
 * Pandas
 * Data Cleaning
 * Data Manipulation
+* Data Analysis
 * Exploratory Data Analysis
 * Matplotlib
 * Data Visualization
@@ -117,9 +143,9 @@ I'm currently focused on strengthening my foundations in **Web Development, Pyth
 
 <td width="50%">
 
-### 🌐 Web Development Project
+### 🌐 Web Development
 
-A practical web development project built using **HTML and CSS**, focused on creating a clean, responsive and user-friendly website.
+A responsive website built using HTML and CSS with a focus on clean design, usability and responsive layouts.
 
 **Tech:** HTML • CSS
 
@@ -131,7 +157,7 @@ A practical web development project built using **HTML and CSS**, focused on cre
 
 ### 🐍 Python Project
 
-A Python-based project demonstrating programming fundamentals, problem-solving and practical implementation.
+A Python project demonstrating programming fundamentals, logical problem-solving and practical implementation.
 
 **Tech:** Python
 
@@ -145,11 +171,11 @@ A Python-based project demonstrating programming fundamentals, problem-solving a
 
 <td width="50%">
 
-### 📊 Data Analysis Project
+### 📊 Data Analysis
 
-A data analysis project using Python libraries to clean, process, analyze and visualize data.
+A data analysis project focused on cleaning, processing and analyzing datasets using Python.
 
-**Tech:** Python • Pandas • NumPy • Matplotlib • Jupyter
+**Tech:** Python • Pandas • NumPy • Jupyter
 
 <a href="YOUR_REPO_LINK">View Project →</a>
 
@@ -157,9 +183,9 @@ A data analysis project using Python libraries to clean, process, analyze and vi
 
 <td width="50%">
 
-### 📈 Data Visualization Project
+### 📈 Data Visualization
 
-A project focused on transforming data into meaningful visualizations and insights using Matplotlib.
+A project that transforms datasets into meaningful visualizations and insights.
 
 **Tech:** Python • Pandas • Matplotlib • Jupyter
 
@@ -176,11 +202,13 @@ A project focused on transforming data into meaningful visualizations and insigh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/luckykapoor01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/luckykapoor01">
+  <img height="180" src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -190,7 +218,9 @@ A project focused on transforming data into meaningful visualizations and insigh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/luckykapoor01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -199,11 +229,12 @@ A project focused on transforming data into meaningful visualizations and insigh
 ## 🧠 Currently Learning
 
 ```text
-Python & Programming     ███████████████░░░  80%
-Data Science              █████████████░░░░░  70%
-Web Development           ██████████████░░░░  75%
-Data Analysis             ███████████░░░░░░░  60%
-Git & GitHub               ████████████████░░  85%
+Python                  ████████████████░░  80%
+Web Development          ███████████████░░░  75%
+Data Science             █████████████░░░░░  70%
+Data Analysis            ████████████░░░░░░  65%
+NumPy & Pandas           █████████████░░░░░  70%
+Git & GitHub              ████████████████░░  85%
 ```
 
 ---
@@ -211,32 +242,50 @@ Git & GitHub               ████████████████░�
 ## 🎯 2026 Goals
 
 * 🚀 Build more real-world projects
-* 🐍 Become stronger in Python
-* 📊 Develop strong Data Science fundamentals
-* 📈 Work on real datasets and analysis projects
+* 🐍 Become highly proficient in Python
+* 📊 Strengthen Data Science fundamentals
+* 📈 Work with real-world datasets
 * 💻 Improve Web Development skills
+* 🔢 Master NumPy and Pandas
+* 📊 Improve Data Visualization skills
 * 🔧 Contribute to Open Source
 * 🌱 Build a strong GitHub portfolio
 
 ---
 
-## 📌 What I'm Working On
+## 📌 Current Focus
 
-```text
-💻 Web Development
-🐍 Python Programming
-📊 Data Analysis
-📈 Data Visualization
-🔢 NumPy & Pandas
-📓 Jupyter Projects
-🔧 Git & GitHub
-```
+<div align="center">
+
+🐍 **Python**
+
+  •  
+
+📊 **Data Science**
+
+  •  
+
+🌐 **Web Development**
+
+  •  
+
+📈 **Data Analysis**
+
+  •  
+
+🔧 **Open Source**
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
+
+<a href="https://github.com/luckykapoor01">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
 
 <a href="YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
@@ -256,8 +305,8 @@ Git & GitHub               ████████████████░�
 
 <div align="center">
 
-### ⭐ If you find my projects useful, consider giving them a star!
+### ⭐ Thanks for visiting my profile!
 
-**Thanks for visiting my profile! 🚀**
+**Feel free to explore my repositories and projects. 🚀**
 
 </div>

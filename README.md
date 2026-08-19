@@ -14,13 +14,13 @@
 </p>
 
 <p>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:luckykapoor000111@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lucky-kapoor/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="YOUR_PORTFOLIO">
+  <a href="https://luckykapoor.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
@@ -150,7 +150,7 @@ design, usability and responsive layouts.
 
 **Tech:** HTML • CSS
 
-<a href="YOUR_REPO_LINK">View Project →</a>
+<a href="https://github.com/luckykapoor01/AttendEase">View Project →</a>
 
 </td>
 
@@ -163,7 +163,7 @@ problem-solving and practical implementation.
 
 **Tech:** Python
 
-<a href="YOUR_REPO_LINK">View Project →</a>
+<a href="">View Project →</a>
 
 </td>
 

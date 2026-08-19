@@ -216,9 +216,7 @@ A project that transforms datasets into meaningful visualizations and insights.
 
 <div align="center">
 
-<a href="https://github.com/luckykapoor01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 

@@ -202,13 +202,11 @@ A project that transforms datasets into meaningful visualizations and insights.
 
 <div align="center">
 
-<a href="https://github.com/luckykapoor01">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<a href="https://github.com/luckykapoor01">
-  <img height="180" src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" />
-</a>
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" />
 
 </div>
 

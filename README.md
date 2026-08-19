@@ -206,19 +206,7 @@ visualizations and insights.
 
 <div align="center">
 
-<a href="https://github.com/luckykapoor01">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Lucky Kapoor GitHub Statistics">
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/luckykapoor01">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Lucky Kapoor Most Used Languages">
-
-</a>
 
 <br><br>
 

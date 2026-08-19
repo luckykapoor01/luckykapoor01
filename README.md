@@ -202,11 +202,31 @@ visualizations and insights.
 
 ---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<a href="https://github.com/luckykapoor01">
+
+<img src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Lucky Kapoor GitHub Statistics">
+
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+<a href="https://github.com/luckykapoor01">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Lucky Kapoor Most Used Languages">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/luckykapoor01">
+
+<img src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" alt="Lucky Kapoor GitHub Contribution Streak">
+
+</a>
 
 </div>
 
@@ -260,11 +280,32 @@ visualizations and insights.
 
 <table>
 <tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">🌐<br><b>Web Development</b></td>
-<td align="center">📈<br><b>Data Analysis</b></td>
-<td align="center">🔧<br><b>Open Source</b></td>
+
+<td align="center">
+🐍<br>
+<b>Python</b>
+</td>
+
+<td align="center">
+📊<br>
+<b>Data Science</b>
+</td>
+
+<td align="center">
+🌐<br>
+<b>Web Development</b>
+</td>
+
+<td align="center">
+📈<br>
+<b>Data Analysis</b>
+</td>
+
+<td align="center">
+🔧<br>
+<b>Open Source</b>
+</td>
+
 </tr>
 </table>
 

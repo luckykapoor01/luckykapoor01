@@ -309,15 +309,15 @@ visualizations and insights.
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucky-kapoor/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://luckykapoor">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:luckykapoor000111@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 

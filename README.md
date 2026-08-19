@@ -6,22 +6,22 @@
 
 <p>
   <a href="https://github.com/luckykapoor01">
-    <img src="https://img.shields.io/github/followers/luckykapoor01?label=Followers&style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/followers/luckykapoor01?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/luckykapoor01">
-    <img src="https://img.shields.io/github/stars/luckykapoor01?label=Stars&style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/stars/luckykapoor01?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars">
   </a>
 </p>
 
 <p>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
 
@@ -32,23 +32,23 @@
 ## 🚀 About Me
 
 Hi! I'm **Lucky Kapoor**, a developer passionate about technology,
-programming and building useful real-world projects.
+programming, data and building useful real-world projects.
 
-I'm currently focused on developing strong foundations in **Web Development,
-Python and Data Science** while continuously improving my programming and
-problem-solving skills.
+I'm currently focused on strengthening my foundations in **Web Development,
+Python and Data Science** while continuously improving my programming,
+problem-solving and development skills.
 
 * 💻 Building websites using **HTML & CSS**
 * 🐍 Developing applications and solving problems with **Python**
 * 📊 Exploring **Data Science and Data Analysis**
 * 🔢 Working with **NumPy and Pandas**
-* 📈 Creating data visualizations using **Matplotlib**
+* 📈 Creating visualizations using **Matplotlib**
 * 📓 Using **Jupyter Notebook** for data exploration
 * 🔧 Managing projects with **Git & GitHub**
-* 💡 Building projects to turn ideas into practical solutions
+* 💡 Turning ideas into practical projects
 * 🌱 Continuously learning and improving
 
-> *"Learn. Build. Improve. Repeat."*
+> **"Learn. Build. Improve. Repeat."**
 
 ---
 
@@ -57,19 +57,19 @@ problem-solving skills.
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML CSS">
 </p>
 
 ### 🐍 Python & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,jupyter" alt="Python NumPy Pandas Matplotlib Jupyter">
 </p>
 
 ### 🔧 Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
 </p>
 
 ---
@@ -77,7 +77,7 @@ problem-solving skills.
 ## 💻 What I Work With
 
 | Category                   | Technologies     |
-| -------------------------- | ---------------- |
+| :------------------------- | :--------------- |
 | 🌐 Web Development         | HTML5, CSS3      |
 | 🐍 Programming             | Python           |
 | 📊 Data Analysis           | Pandas, NumPy    |
@@ -143,9 +143,10 @@ problem-solving skills.
 
 <td width="50%">
 
-### 🌐 Web Development
+### 🌐 Web Development Project
 
-A responsive website built using HTML and CSS with a focus on clean design, usability and responsive layouts.
+A responsive website built using **HTML and CSS**, focused on clean
+design, usability and responsive layouts.
 
 **Tech:** HTML • CSS
 
@@ -157,7 +158,8 @@ A responsive website built using HTML and CSS with a focus on clean design, usab
 
 ### 🐍 Python Project
 
-A Python project demonstrating programming fundamentals, logical problem-solving and practical implementation.
+A Python project demonstrating programming fundamentals,
+problem-solving and practical implementation.
 
 **Tech:** Python
 
@@ -171,9 +173,10 @@ A Python project demonstrating programming fundamentals, logical problem-solving
 
 <td width="50%">
 
-### 📊 Data Analysis
+### 📊 Data Analysis Project
 
-A data analysis project focused on cleaning, processing and analyzing datasets using Python.
+A data analysis project focused on cleaning, processing,
+analyzing and understanding real-world datasets.
 
 **Tech:** Python • Pandas • NumPy • Jupyter
 
@@ -183,9 +186,10 @@ A data analysis project focused on cleaning, processing and analyzing datasets u
 
 <td width="50%">
 
-### 📈 Data Visualization
+### 📈 Data Visualization Project
 
-A project that transforms datasets into meaningful visualizations and insights.
+A project focused on transforming data into meaningful
+visualizations and insights.
 
 **Tech:** Python • Pandas • Matplotlib • Jupyter
 
@@ -202,21 +206,29 @@ A project that transforms datasets into meaningful visualizations and insights.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckykapoor01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="./profile/stats.svg" alt="GitHub Statistics">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" />
+<img src="./profile/top-langs.svg" alt="Most Used Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=luckykapoor01&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykapoor01&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/luckykapoor01">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckykapoor01&theme=tokyonight" alt="GitHub Profile Details">
+
+</a>
 
 </div>
 
@@ -224,14 +236,14 @@ A project that transforms datasets into meaningful visualizations and insights.
 
 ## 🧠 Currently Learning
 
-```text
-Python                  ████████████████░░  80%
-Web Development          ███████████████░░░  75%
-Data Science             █████████████░░░░░  70%
-Data Analysis            ████████████░░░░░░  65%
-NumPy & Pandas           █████████████░░░░░  70%
-Git & GitHub              ████████████████░░  85%
-```
+* 🐍 Python
+* 📊 Data Science
+* 📈 Data Analysis
+* 🔢 NumPy & Pandas
+* 📉 Data Visualization
+* 🌐 Web Development
+* 🔧 Git & GitHub
+* 💡 Problem Solving
 
 ---
 
@@ -246,6 +258,7 @@ Git & GitHub              ████████████████░░
 * 📊 Improve Data Visualization skills
 * 🔧 Contribute to Open Source
 * 🌱 Build a strong GitHub portfolio
+* 💡 Turn more ideas into working products
 
 ---
 
@@ -253,23 +266,15 @@ Git & GitHub              ████████████████░░
 
 <div align="center">
 
-🐍 **Python**
-
-  •  
-
-📊 **Data Science**
-
-  •  
-
-🌐 **Web Development**
-
-  •  
-
-📈 **Data Analysis**
-
-  •  
-
-🔧 **Open Source**
+<table>
+<tr>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">📈<br><b>Data Analysis</b></td>
+<td align="center">🔧<br><b>Open Source</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -280,19 +285,19 @@ Git & GitHub              ████████████████░░
 <div align="center">
 
 <a href="https://github.com/luckykapoor01">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
 </div>
@@ -303,6 +308,8 @@ Git & GitHub              ████████████████░░
 
 ### ⭐ Thanks for visiting my profile!
 
-**Feel free to explore my repositories and projects. 🚀**
+Feel free to explore my repositories and projects.
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>

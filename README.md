@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/lucky-kapoor/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://luckykapoor.com">
+  <a href="https://luckykapoor.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
@@ -313,7 +313,7 @@ visualizations and insights.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-<a href="https://luckykapoor">
+<a href="https://luckykapoor.in">
   <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
 </a>
 
